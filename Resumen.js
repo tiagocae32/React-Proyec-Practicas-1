@@ -34,7 +34,7 @@ class Resumen extends Component{
         {this.mostrar()}
         <Resultado
         
-        resultadojeje = {this.props.resultado}
+        resultados = {this.props.resultado}
 
         />
            </div> 
