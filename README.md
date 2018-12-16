@@ -1,2 +1,2 @@
-# React-Proyec-Practicas-1
+# React-Proyect-Practicas-1
 Cotizador de autos 
