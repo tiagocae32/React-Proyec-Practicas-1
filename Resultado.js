@@ -5,7 +5,7 @@ class Resultado extends Component{
 
 render(){
 
-    const resultado = this.props.resultadojeje
+    const resultado = this.props.resultados
     const mensaje  = (!resultado) ? "Elige marca,año y plan" : "El total es $"
 
     return(
